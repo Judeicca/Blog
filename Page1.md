@@ -17,4 +17,4 @@ Because I want a Mercy pocket ya N00B
 
 
 
-# [Previous page](https://judeicca.github.io)
+# [Previous page](https://judeicca.github.io/Blog/)
