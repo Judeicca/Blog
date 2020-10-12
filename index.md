@@ -5,9 +5,8 @@ This is where I will put everything I have learnt in my college course.
 
 I have no clue what I am doing half of the time, but the other half now thats when I get work done.
 
+### What I have been doing
 ```markdown
-This is what I've been working on
-
 using System;
 using System.Diagnostics;
 using System.Security;
