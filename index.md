@@ -6,29 +6,48 @@ This is where I will put everything I have learnt in my college course.
 I have no clue what I am doing half of the time, but the other half now thats when I get work done.
 
 ```markdown
-Syntax highlighted code block
+This is what I've been working on
 
-# Header 1
-## Header 2
-### Header 3
+using System;
+using System.Diagnostics;
+using System.Security;
 
-- Bulleted
-- List
+namespace Judeipidia
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Please input an animal: ");
+            string fake = Console.ReadLine();
+            Process.Start(@"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe",
+              "https://www.youtube.com/watch?v=dQw4w9WgXcQ");
 
-1. Numbered
-2. List
+            bool aminal = true;
+            while (aminal == true)
+            {
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.Title = "Judeipidia";
 
-**Bold** and _Italic_ and `Code` text
+                Console.WriteLine("Please input an animal: ");
+                string animal = Console.ReadLine();
+                Process.Start(@"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe",
+                  "https://en.wikipedia.org/wiki/" + animal);
 
-[Link](url) and ![Image](src)
+                Console.ForegroundColor = ConsoleColor.Red;
+
+                Console.WriteLine("Press input to rerun or input 'N' to end");
+                string answer = Console.ReadLine();
+                answer.ToUpper();
+
+                if (answer == "N")
+                {
+                    Environment.Exit(0);
+                }
+            }
+        }
+    }
+}
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Judeicca/Blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For more details contact me at [Juderafferty64@gmail.com](Juderafferty64@gmail.com).
