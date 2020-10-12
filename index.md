@@ -1,12 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Judes blog
+This is where I will put everything I have learnt in my college course. 
 
-You can use the [editor on GitHub](https://github.com/Judeicca/Blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### About me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have no clue what I am doing half of the time, but the other half now thats when I get work done.
 
 ```markdown
 Syntax highlighted code block
