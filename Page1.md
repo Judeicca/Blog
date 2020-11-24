@@ -27,6 +27,7 @@ Yeah so do I, heck I even play with one because Daniel is a simp, but that dont 
 ## JUST CHOOSE MERCY Man
 
 JUST LOOK AT HER AND TELL ME YOU DONT WANT TO PLAY HER
+
 <img src="https://user-images.githubusercontent.com/46632070/100079155-3b230b80-2e3c-11eb-8683-d6549a4fbbae.png">
 
 Bazinga
