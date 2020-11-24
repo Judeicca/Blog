@@ -26,7 +26,8 @@ Yeah so do I, heck I even play with one because Daniel is a simp, but that dont 
 
 ## JUST CHOOSE MERCY Man
 
-[JUST LOOK AT HER AND TELL ME YOU DONT WANT TO PLAY HER](https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic1-www.millenium.gg%2Farticles%2F4%2F93%2F54%2F%40%2F106956-1217784-9b85a23a428bced3269b3e193faaaddb-orig-1-article_m-1.jpg&imgrefurl=https%3A%2F%2Fwww.millenium.gg%2Fnews%2F9354.html&tbnid=RYlD9D4kWw1iVM&vet=12ahUKEwixqrjE85rtAhURxOAKHc-7AnsQMygMegUIARDyAQ..i&docid=40UThrLsi3rIVM&w=559&h=373&q=Mercy&ved=2ahUKEwixqrjE85rtAhURxOAKHc-7AnsQMygMegUIARDyAQ)
+[JUST LOOK AT HER AND TELL ME YOU DONT WANT TO PLAY HER](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.change.org%2Fp%2Foverwatch-sexy-outfit-for-torb&psig=AOvVaw3w1p_bOyNF22Svkxy5sUAr&ust=1606298067733000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCGt-bymu0CFQAAAAAdAAAAABAE)
+
 Bazinga
 
 
