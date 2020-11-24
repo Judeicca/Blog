@@ -1,4 +1,4 @@
-### Why you should pick Mercy in 2020
+# Why you should pick Mercy in 2020
 I will tell you why you should pick Mercy in 2020
 
 ### Who is Mercy
@@ -24,7 +24,7 @@ But Play her anyway
 ### "I hate boosted Mercy mains"
 Yeah so do I, heck I even play with one because Daniel is a simp, but that dont get it wrong. A pro Mercy main like Frogger is nothing compared to a boosterd Mercy main like Daniels friend whos name I dont know how to spell
 
-# JUST CHOOSE MERCY Man
+## JUST CHOOSE MERCY Man
 
 
 
