@@ -3,7 +3,7 @@ This is where I will put everything I have learnt in my college course.
 
 ### About me
 
-I have no clue what I am doing half of the time, but the other half now thats when I get work done.
+Im special
 
 ### What I have been doing
 ```markdown
