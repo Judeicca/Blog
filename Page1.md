@@ -5,28 +5,15 @@ Level 3
 I will study the role of computer systems and the implications of their use in personal and professional situations
 
 ### Unit introductuin
-U
+Information technology systems play a part in almost everything we do in modern times. Having a good understanding of how these systems work offer benefits to you professionally and personaly. 
 
-### Why you should pick her
-Because I want a Mercy pocket ya N00B
+I will begin to to explore the relationships between hardware and software, and how these systems work both individually and together, along with the relationship between the user and the system. I will also examine the issues that arrise from these systems and the impact that they have on businesses and induviduals.
 
-### Lagging?
-No problem Mercy is so easy to play that even if you cannot move you can still get value
+Overall this unit will give me a fundermental understanding of all areas of IT and allow me to progress in my carrer.
 
-### "But Mercy is for girls"
-Yes
-But Play her anyway
+### My definition of an information technology system
+Information technology systems are computer system that are utalised by a majority of the population to send information.
 
-### "I hate boosted Mercy mains"
-Yeah so do I, heck I even play with one because Daniel is a simp, but that dont get it wrong. A pro Mercy main like Frogger is nothing compared to a boosterd Mercy main like Daniels friend whos name I dont know how to spell
-
-## JUST CHOOSE MERCY Man
-
-JUST LOOK AT HER AND TELL ME YOU DONT WANT TO PLAY HER
-
-<img src="https://user-images.githubusercontent.com/46632070/100079155-3b230b80-2e3c-11eb-8683-d6549a4fbbae.png">
-
-Bazinga
 
 
 
