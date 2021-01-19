@@ -1,15 +1,11 @@
-# Why you should pick Mercy in 2020
-I will tell you why you should pick Mercy in 2020
+# Information technology systems
+Level 3
 
-### Who is Mercy
-Mercy is a healer in the game Overwatch made by Blizzard Entertainment
+### Unit in brief
+I will study the role of computer systems and the implications of their use in personal and professional situations
 
-### What can she do
-She can:
-1. Heal
-2. Damage boost
-3. kill
-4. Rez
+### Unit introductuin
+U
 
 ### Why you should pick her
 Because I want a Mercy pocket ya N00B
